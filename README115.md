@@ -11,7 +11,8 @@
 
 **Answer:**
 
-![p53 Structure](image/image_2.png)
+![p53 Structure](image/Profile.png)
+<img width="389" height="312" alt="螢幕擷取畫面 2026-10-19 095511" src="https://github.com/user-attachments/assets/6515b8c2-0583-45b7-914d-f2f07b832709" />
 
 **(1) Peptide Bonds in p53**
 * **Structure:** All 393 amino acids in human wild-type p53 are connected by covalent peptide bonds, extending from the N-terminal to the C-terminal domain.
@@ -32,7 +33,8 @@
 
 **Answer:**
 
-![DNA Structure](image/image_1.png)
+![DNA Structure](image/Profile.png)
+<img width="364" height="304" alt="螢幕擷取畫面 2026-10-19 101903" src="https://github.com/user-attachments/assets/7061cb2a-ea7b-4faf-8212-a1570b5dd4fa" />
 
 * **Basic Components:** Each nucleotide contains a deoxyribose sugar, a phosphate group, and a nitrogenous base.
 * **Assembly:** Single strands form via covalent phosphodiester bonds. Two strands twist into an antiparallel double helix stabilized by hydrogen bonds and base stacking.
